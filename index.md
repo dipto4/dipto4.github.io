@@ -6,14 +6,13 @@ I am a computational astrophysicist purusing my Ph.D. at Carnegie Mellon Univers
 
 I have worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
 
-I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am currently working on my own code that combines gravitational dynamics and SPH to treat interactions of stars in clusters. 
+I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am currently working on my own code that combines gravitational dynamics and SPH to treat interactions of stars in clusters. I have advanced knowledge of Fortran, C, Python and CUDA.  
+
+On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning.
+
+## Experience
 
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
 
 > This is a blockquote following a header.
 >
