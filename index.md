@@ -12,7 +12,9 @@ On the computer science side of things, I am interested in High Performance Comp
 
 ## Experience
 
+* **Los Alamos National Lab (May 2018 -- August 2018)** - Optimization of an Arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Researched MPI+X hybrid programming techniques. Used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. Explored the usage of machine learning to replace interpolation calls to EOSPAC. Presented a poster at Supercomputing 2018 and a talk at CCS division of LANL.
 
+* **Leiden University (May 2017 -- present)**
 
 > This is a blockquote following a header.
 >
