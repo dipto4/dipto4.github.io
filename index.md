@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## About me
+
 I am a computational astrophysicist purusing my Ph.D. at Carnegie Mellon University. I obtained my B.S. in Physics from Allegheny College in 2019.
 
 I have worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
