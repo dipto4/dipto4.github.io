@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## About me
+
 I am a computational astrophysicist purusing my Ph.D. at Carnegie Mellon University. I obtained my B.S. in Physics from Allegheny College in 2019.
 
 I have worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
@@ -14,11 +16,8 @@ On the computer science side of things, I am interested in High Performance Comp
 
 * **Los Alamos National Lab (May 2018 -- August 2018)** - Optimization of an Arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Researched MPI+X hybrid programming techniques. Used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. Explored the usage of machine learning to replace interpolation calls to EOSPAC. Presented a poster at Supercomputing 2018 and a talk at CCS division of LANL.
 
-* **Leiden University (May 2017 -- present)**
+* **Leiden University (May 2017 -- present)** - Exploring the secular evolution of the solar system and its debris disk in the birth cluster. Worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). Presented a poster at APS April, 2018 and a talk at DPS 2018. A paper is being written.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
