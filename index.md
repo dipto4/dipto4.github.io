@@ -28,25 +28,25 @@ You can find my current CV here.
 
 ### Evolution of Primordial Solar System
 
-Using two coupled astrophysical codes, __rebound__ and __NBODY6++__, my collaborators at Leiden University and I are exploring the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
+Using two coupled astrophysical codes, _rebound_ and _NBODY6++_, my collaborators at Leiden University and I are exploring the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
 
 ### PyStarsmasher
 
-Creating a new Python based interface for SPH code __Starsmasher__ which is used for studying stellar mergers. The new interface/code, named __PyStarsmasher__ can be coupled with any other astrophysical code using the Python interface. One can imagine coupling it to gas dynamics or gravitational dynamics codes using AMUSE. __PyStarsmasher__ is an open-source code and can be downloaded here.
+Creating a new Python based interface for SPH code _Starsmasher_ which is used for studying stellar mergers. The new interface/code, named _PyStarsmasher_, can be coupled with any other astrophysical code using the Python interface. One can imagine coupling it to gas dynamics or gravitational dynamics codes using AMUSE. _PyStarsmasher_ is an open-source code and can be downloaded here.
 
 ### Formation of Runaway Collision Objects
 
-Using __PyStarsmasher__, a novel method has been devised to treat stellar collisions in __NBODY6++__ using __Starsmasher__. This method of coupling codes has not been used before and provides better results while treating stellar mergers in star clusters. This coupled code is then used to study the formation of runaway collision objects in star clusters. 
+Using _PyStarsmasher_, a novel method has been devised to treat stellar collisions in _NBODY6++_ using _Starsmasher_. This method of coupling codes has not been used before and provides better results while treating stellar mergers in star clusters. This coupled code is then used to study the formation of runaway collision objects in star clusters. 
 
 * * *
 
 ## Talks
-1. __Optimizing FleCSALE with EOSPAC for Exascale Systems.__ Invited talk at **Los Alamos National Lab**. 26 July 2018.
-2. __Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster.__ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
+1. _Optimizing FleCSALE with EOSPAC for Exascale Systems._ Invited talk at **Los Alamos National Lab**. 26 July 2018.
+2. _Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster._ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
 ## Posters
-1. __Heating of Debris Disk using Stellar Encounters.__ April Meeting of the American Physical Society,
+1. _Heating of Debris Disk using Stellar Encounters._ April Meeting of the American Physical Society,
 Columbus. April 2018.
-2. __Optimizing Next Generation Hydrodynamics Code for Exascale Systems.__ Supercomputing 2018,
+2. _Optimizing Next Generation Hydrodynamics Code for Exascale Systems._ Supercomputing 2018,
 Dallas. November 2018
 
 
