@@ -4,13 +4,17 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist purusing my Ph.D. at Carnegie Mellon University. I obtained my B.S. in Physics from Allegheny College in 2019.
+I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I obtained my Bachelor of Science in Physics from Allegheny College in 2019.
 
 I have worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
 
-I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am currently working on my own code that combines gravitational dynamics and SPH to treat interactions of stars in clusters. I have advanced knowledge of Fortran, C, Python and CUDA.  
+I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am currently working on my own code that combines gravitational dynamics and SPH to treat interactions of stars in clusters. I am proficient in Fortran (77,90), C, Python and CUDA.  
 
 On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning.
+
+You can find my current CV here.
+
+* * *
 
 ## Experience
 
@@ -18,105 +22,33 @@ On the computer science side of things, I am interested in High Performance Comp
 
 * **Leiden University (May 2017 -- present)** - Exploring the secular evolution of the solar system and its debris disk in the birth cluster. Worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). Presented a poster at APS April, 2018 and a talk at DPS 2018. A paper is being written.
 
+* * *
 
-### Header 3
+## Current Projects
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Evolution of Primordial Solar System
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Using two coupled astrophysical codes, __rebound__ and __NBODY6++__, my collaborators at Leiden University and I are exploring the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
 
-#### Header 4
+### PyStarsmasher
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Creating a new Python based interface for SPH code __Starsmasher__ which is used for studying stellar mergers. The new interface/code, named __PyStarsmasher__ can be coupled with any other astrophysical code using the Python interface. One can imagine coupling it to gas dynamics or gravitational dynamics codes using AMUSE. __PyStarsmasher__ is an open-source code and can be downloaded here.
 
-##### Header 5
+### Formation of Runaway Collision Objects
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Using __PyStarsmasher__, a novel method has been devised to treat stellar collisions in __NBODY6++__ using __Starsmasher__. This method of coupling codes has not been used before and provides better results while treating stellar mergers in star clusters. This coupled code is then used to study the formation of runaway collision objects in star clusters. 
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Talks
+1. __Optimizing FleCSALE with EOSPAC for Exascale Systems.__ Invited talk at **Los Alamos National Lab**. 26 July 2018.
+2. __Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster.__ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
+## Posters
+1. __Heating of Debris Disk using Stellar Encounters.__ April Meeting of the American Physical Society,
+Columbus. April 2018.
+2. __Optimizing Next Generation Hydrodynamics Code for Exascale Systems.__ Supercomputing 2018,
+Dallas. November 2018
 
 
-### Definition lists can be used with HTML syntax.
+* * *
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
