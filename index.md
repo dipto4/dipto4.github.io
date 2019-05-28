@@ -43,6 +43,7 @@ Using _PyStarsmasher_, a novel method has been devised to treat stellar collisio
 ## Talks
 1. _Optimizing FleCSALE with EOSPAC for Exascale Systems._ Invited talk at **Los Alamos National Lab**. 26 July 2018.
 2. _Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster._ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
+
 ## Posters
 1. _Heating of Debris Disk using Stellar Encounters._ April Meeting of the American Physical Society,
 Columbus. April 2018.
