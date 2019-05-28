@@ -45,10 +45,9 @@ Using _PyStarsmasher_, a novel method has been devised to treat stellar collisio
 2. _Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster._ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
 
 ## Posters
-1. _Heating of Debris Disk using Stellar Encounters._ April Meeting of the American Physical Society,
-Columbus. April 2018.
-2. _Optimizing Next Generation Hydrodynamics Code for Exascale Systems._ Supercomputing 2018,
-Dallas. November 2018
+1. _Heating of Debris Disk using Stellar Encounters._ **April Meeting of the American Physical Society,
+Columbus. April 2018.**
+2. _Optimizing Next Generation Hydrodynamics Code for Exascale Systems._ **Supercomputing 2018, Dallas. November 2018**
 
 
 * * *
