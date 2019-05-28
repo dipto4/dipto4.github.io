@@ -12,7 +12,7 @@ I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am
 
 On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning.
 
-**You can find my current CV** [here](/docs/CV_github.pdf)
+**You can find my current CV** [here](/docs/CV_github.pdf).
 
 Outside of academics, I am involved in astrophotography. I was the president of the Astronomy Club at Allegheny College for two years. I also enjoy reading, hiking and traveling to new places.
 
