@@ -28,6 +28,9 @@ Outside of academics, I am involved in astrophotography. I was the president of 
 
 ## Current Projects
 
+### [Falcon](https://github.com/dipto4/falcon)
+Falcon is an N-Body code that will be used for small-N systems. Work in progress.
+
 ### Evolution of Primordial Solar System
 
 Using two coupled astrophysical codes, _rebound_ and _NBODY6++_, my collaborators at Leiden University and I are exploring the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
