@@ -4,17 +4,18 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I obtained my Bachelor of Science in Physics from Allegheny College in 2019.
+I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in Physics along with minors in Economics and Computer Science from Allegheny College in 2019. 
 
-I have worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
+My work lies at the intersection of numerical method development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional $N$-body code called *Taichi* which uses a finely tuned and optimized fast multipole method based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
+I have also worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
 
-I specialize in gravitational dynamics and Smoothed Particle Hydrodynamics. I am currently working on my own code that combines gravitational dynamics and SPH to treat interactions of stars in clusters. I am proficient in Fortran (77,90), C, Python and CUDA.  
+I am proficient in Fortran (77,90), C/C++, and Python. While *Taichi* is parallelized using openMP, I have previously worked with CUDA and MPI.
 
-On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning.
+On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning. On the machine learning side of things, I have worked with Generative Adversarial Networks to simulate galaxy images for future galaxy surveys and symbolic regression to implement new force softening techniques in cosmological simulations.
 
 **You can find my current CV** [here](/docs/CV_github.pdf).
 
-Outside of academics, I am involved in astrophotography. I was the president of the Astronomy Club at Allegheny College for two years. I also enjoy reading, hiking and traveling to new places.
+Outside of academics, I am involved in a variety of things. I was the president of the Astronomy Club at Allegheny College for two years. I also co-host and organize Astronomy on Tap, Pittsburgh where we bring the joy of astronomy to the general public. I also enjoy reading, hiking and traveling to new places. 
 
 * * *
 
@@ -57,6 +58,10 @@ For my bachelor's thesis, I had to work with _NBODY6++_. I worked in modifying t
 
 ## Publications 
 1. [_Fast Multipole Methods for N-body Simulations of Collisional Star Systems_ **Mukherjee, D.**, Zhu, Q., Trac, H., Rodriguez, C.L. ApJ 916 9](https://iopscience.iop.org/article/10.3847/1538-4357/ac03b2)
+2. [_Evolution of massive black hole binaries in collisionally relaxed nuclear star clusters–Impact of mass segregation_  **Mukherjee, D.**, Zhu, Q., Ogiya, G., Rodriguez, C. L., & Trac, H. Monthly Notices of the Royal Astronomical Society, 518(4), 4801-4817](https://academic.oup.com/mnras/article-abstract/518/4/4801/6840259)
+3. [_Close encounters of the interstellar kind: exploring the capture of interstellar objects in near-Earth orbit_  **Mukherjee, D.**, Siraj, A., Trac, H., & Loeb, A.  Monthly Notices of the Royal Astronomical Society, 525(1), 908-921](https://academic.oup.com/mnras/article-abstract/525/1/908/7233732)
+4. [_Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using N-body Simulations_ **Mukherjee, D.**, Holgado, A. M., Ogiya, G., & Trac, H. arXiv preprint arXiv:2312.02275](https://arxiv.org/abs/2312.02275)
+5. [_MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs_ Chen, N., **Mukherjee, D.**, Di Matteo, T., Ni, Y., Bird, S., & Croft, R.  arXiv preprint arXiv:2312.09183](https://arxiv.org/abs/2312.09183)
 
 ## Talks
 1. _Optimizing FleCSALE with EOSPAC for Exascale Systems._ Invited talk at **Los Alamos National Lab**. 26 July 2018.
