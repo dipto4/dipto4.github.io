@@ -25,7 +25,7 @@ Outside of academics, I am involved in a variety of things. I was the president 
 
 * **Los Alamos National Lab (May 2018 -- August 2018)** - I was a co-design summer school student where I worked on optimization of an arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Along with my colleagues, I researched MPI+X hybrid programming techniques. Additionally, I used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. I also explored the usage of machine learning to replace interpolation calls to EOSPAC. 
 
-* **Leiden University (May 2017 -- August 2019)** - As a LEAPS student, I was researching the secular evolution of the solar system and its debris disk in the birth cluster. I worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). 
+* **Leiden University (May 2017 -- August 2018)** - As a LEAPS student, I was researching the secular evolution of the solar system and its debris disk in the birth cluster. I worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). 
 
 * * *
 
