@@ -13,7 +13,6 @@ I am proficient in Fortran (77,90), C/C++, and Python. While *Taichi* is paralle
 
 On the computer science side of things, I am interested in high performance computing (HPC), GPU computing, and machine learning (ML). I have worked with Generative Adversarial Networks (GANs) to simulate galaxy images for future galaxy surveys and symbolic regression to implement new force softening techniques in cosmological simulations.
 
-**You can find my current CV** [here](/docs/CV_github.pdf).
 
 Outside of academics, I am involved in a variety of things. I was the president of the Astronomy Club at Allegheny College for two years. I also co-host and organize Astronomy on Tap, Pittsburgh where we bring the joy of astronomy to the general public. I also enjoy reading, hiking and traveling to new places. 
 
