@@ -4,14 +4,14 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in Physics along with minors in Economics and Computer Science from Allegheny College in 2019. 
+I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
 
-My work lies at the intersection of numerical method development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional $N$-body code called *Taichi* which uses a finely tuned and optimized fast multipole method based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
-I have also worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters. I am also interested in pursuing topics in cosmology and intermediate mass black hole formation.
+My work lies at the intersection of numerical methods development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar and galactic systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional *N*-body code called *Taichi* which uses a finely tuned and optimized fast multipole method (FMM) based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
+My background is quite diverse having worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters.
 
 I am proficient in Fortran (77,90), C/C++, and Python. While *Taichi* is parallelized using openMP, I have previously worked with CUDA and MPI.
 
-On the computer science side of things, I am interested in High Performance Computing, GPU computing, and machine learning. On the machine learning side of things, I have worked with Generative Adversarial Networks to simulate galaxy images for future galaxy surveys and symbolic regression to implement new force softening techniques in cosmological simulations.
+On the computer science side of things, I am interested in high performance computing (HPC), GPU computing, and machine learning (ML). I have worked with Generative Adversarial Networks (GANs) to simulate galaxy images for future galaxy surveys and symbolic regression to implement new force softening techniques in cosmological simulations.
 
 **You can find my current CV** [here](/docs/CV_github.pdf).
 
@@ -21,9 +21,9 @@ Outside of academics, I am involved in a variety of things. I was the president 
 
 ## Research
 
-* **Carnegie Mellon University (August 2019 -- present)** - Using novel force calculation techniques like the Fast Multipole Method for the N-body problem. Use FMM based techniques for large collisional systems where direct N-body methods not feasible. Working on simulations of sources of low-frequency Gravitational Waves (GW) like Supermassive Black Hole Binaries. 
+* **Carnegie Mellon University (August 2019 -- present)** - My work involves using novel force calculation techniques like the fast multipole method for the *N*-body problem. Our FMM based code, *Taichi*, has been used to simulate dense stellar systems such as nuclear star clusters and how they affect the mergers of massive black holes. I am primarily working on simulations of sources of low-frequency Gravitational Waves (GW) like massive black hole binaries but have also worked on other projects that include capture of interstellar objects and examining the effect of dark matter spikes on GWs as a method to detect dark matter. 
 
-* **Los Alamos National Lab (May 2018 -- August 2018)** - Optimization of an Arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Researched MPI+X hybrid programming techniques. Used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. Explored the usage of machine learning to replace interpolation calls to EOSPAC. Presented a poster at Supercomputing 2018 and a talk at CCS division of LANL.
+* **Los Alamos National Lab (May 2018 -- August 2018)** - I was a co-design summer school student where I worked on optimization of an arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Along with my colleagues, I researched MPI+X hybrid programming techniques. Additionally, I used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. I also explored the usage of machine learning to replace interpolation calls to EOSPAC. 
 
 * **Leiden University (May 2017 -- August 2019)** - Exploring the secular evolution of the solar system and its debris disk in the birth cluster. Worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). Presented a poster at APS April, 2018 and a talk at DPS 2018. A paper is being written.
 
