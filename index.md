@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist purusing my Ph.D. in Physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
+I am a computational astrophysicist purusing my Ph.D. in physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
 
 My work lies at the intersection of numerical methods development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar and galactic systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional *N*-body code called *Taichi* which uses a finely tuned and optimized fast multipole method (FMM) based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
 My background is quite diverse having worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters.
@@ -25,33 +25,33 @@ Outside of academics, I am involved in a variety of things. I was the president 
 
 * **Los Alamos National Lab (May 2018 -- August 2018)** - I was a co-design summer school student where I worked on optimization of an arbitrary Lagrangian Eulerian code called FleCSALE for the triple point problem. Along with my colleagues, I researched MPI+X hybrid programming techniques. Additionally, I used CUDA to port various high order interpolation algorithms used by EOSPAC to GPUs. I also explored the usage of machine learning to replace interpolation calls to EOSPAC. 
 
-* **Leiden University (May 2017 -- August 2019)** - Exploring the secular evolution of the solar system and its debris disk in the birth cluster. Worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). Presented a poster at APS April, 2018 and a talk at DPS 2018. A paper is being written.
+* **Leiden University (May 2017 -- August 2019)** - As a LEAPS student, I was researching the secular evolution of the solar system and its debris disk in the birth cluster. I worked with different high order integrators (symplectic and non-symplectic) and investigated coupling of astrophysical codes using Astrophysical Multipurpose Software Environment (AMUSE). 
 
 * * *
 
 ##  Projects
 
-### Taichi
-Taichi is a FMM based collisional dynamics N-body code that is optimized to handle million and post-million body problems. Work in progress.
+### *Taichi*
+Taichi is a FMM based collisional dynamics *N*-body code that is optimized to handle million and post-million body problems. The code is built on top of exaFMM with changes made to improve the force accuracy and optimizations for collisional dynamics. For accurate few-body dynamics, regularization is included. Work is in progress to implement post-Newtonian effects and gravitational wave recoil. *Taichi* includes time-symmetrized hamiltonian splitting integrators of second and fourth orders. For the latter, gradient extrapolation based forward symplectic methods are used to avoid negative timesteps and improve accuracy.
 
-### [Falcon](https://github.com/dipto4/falcon)
-Falcon is an N-Body code that will be used for small-N systems. Work in progress.
+### *Falcon*
+*Falcon* is a custom *N*-body code that is tuned to simulate intermediate mass ratio inspirals embedded in dark matter spikes. Since the self-gravity of the spike in minimal, *Falcon* neglects DM-DM interactions which speeds up the simulation. Post-Newtonian effects upto 2.5 order are included and work is in progress to implement post-Newtonian effects upto 3.5 order. Integration is performed using a second order auxiliary variable based method since the post-Newtonian Hamiltonian is non-separable. It includes adaptive timestepping via the usage of time-symmetrized methods to improve accuracy.
 
 ### Evolution of Primordial Solar System
 
-Using two coupled astrophysical codes, _rebound_ and _NBODY6++_, my collaborators at Leiden University and I are exploring the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
+Using two coupled astrophysical codes, _rebound_ and _NBODY6++_, my collaborators at Leiden University and I explored the effects of the Sun's birth cluster on the dynamics of the giant planets and the secular evolution of the debris disk surrounding the planets. 
 
 ### [PyStarsmasher](https://github.com/dipto4/PyStarsmasher)
 
-Creating a new Python based interface for SPH code _Starsmasher_ which is used for studying stellar mergers. The new interface/code, named _PyStarsmasher_, can be coupled with any other astrophysical code using the Python interface. One can imagine coupling it to gas dynamics or gravitational dynamics codes using AMUSE. _PyStarsmasher_ is an open-source code and can be downloaded [here](https://github.com/dipto4/PyStarsmasher).
+For my bachelor's thesis, I created a new Python based interface for smoothed particle hydrodynamics (SPH) code _Starsmasher_ which is used for studying stellar mergers. The new interface/code, named _PyStarsmasher_, can be coupled with any other astrophysical code using the Python interface. One can imagine coupling it to gas dynamics or gravitational dynamics codes using AMUSE. _PyStarsmasher_ is an open-source code and can be downloaded [here](https://github.com/dipto4/PyStarsmasher).
 
 ### Formation of Runaway Collision Objects
 
-Using _PyStarsmasher_, a novel method has been devised to treat stellar collisions in _NBODY6++_ using _Starsmasher_. This method of coupling codes has not been used before and provides better results while treating stellar mergers in star clusters. This coupled code is then used to study the formation of runaway collision objects in star clusters. 
+For my bachelor's thesis, I devised a novel method to study stellar collisions in _NBODY6++_ using _Starsmasher_ using _PyStarsmasher_. This method of coupling codes had not been used before and provided better results while treating stellar mergers in star clusters. This coupled code was then used to study the formation of runaway collision objects in star clusters. 
 
 ### [NBODY6++](https://github.com/dipto4/NBODY6_collision_detection)
 
-For my bachelor's thesis, I had to work with _NBODY6++_. I worked in modifying the original code to allow for collisions to take place even when stellar evolution is switched off. In addition to that, the new code outputs details of all stars in the cluster for multiple timesteps before a collision has taken place so that it can be tracked. These files can be read using _PyStarsmasher_ to set up a sequence of collisions. The modified code can be found
+For my bachelor's thesis, I had to work with _NBODY6++_. I worked to modify the original code to allow for collisions to take place even when stellar evolution is switched off. In addition to that, the new code outputs details of all stars in the cluster for multiple timesteps before a collision has taken place so that it can be tracked. These files can be read using _PyStarsmasher_ to set up a sequence of collisions. The modified code can be found
 [here](https://github.com/dipto4/NBODY6_collision_detection).
 
 * * *
@@ -66,6 +66,7 @@ For my bachelor's thesis, I had to work with _NBODY6++_. I worked in modifying t
 ## Talks
 1. _Optimizing FleCSALE with EOSPAC for Exascale Systems._ Invited talk at **Los Alamos National Lab**. 26 July 2018.
 2. _Exploring the Secular Evolution of the Solar System and Debris Disk in the Birth Cluster._ Talk at the **50th DPS meeting, Knoxville.** 23 October 2018.
+3. _
 
 ## Posters
 1. _Heating of Debris Disk using Stellar Encounters._ **April Meeting of the American Physical Society,
