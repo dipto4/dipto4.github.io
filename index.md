@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist purusing my Ph.D. in physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
+I am a computational astrophysicist pursuing my Ph.D. in physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
 
 My work lies at the intersection of numerical methods development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar and galactic systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional *N*-body code called *Taichi* which uses a finely tuned and optimized fast multipole method (FMM) based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
 My background is quite diverse having worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters.
