@@ -18,7 +18,7 @@ Outside of academics, I am involved in a variety of things. I was the president 
 
 #### Links
 
-[Works][./works.html]
+[Works](./works.html)
 
 * * *
 
