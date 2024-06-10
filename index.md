@@ -16,6 +16,10 @@ On the computer science side of things, I am interested in high performance comp
 
 Outside of academics, I am involved in a variety of things. I was the president of the Astronomy Club at Allegheny College for two years. I also co-host and organize Astronomy on Tap, Pittsburgh where we bring the joy of astronomy to the general public. I also enjoy reading, hiking and traveling to new places. 
 
+#### Links
+
+[Works][./works.html]
+
 * * *
 
 ## Research
