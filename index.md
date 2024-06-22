@@ -4,21 +4,17 @@ layout: default
 
 ## About me
 
-I am a computational astrophysicist pursuing my Ph.D. in physics at Carnegie Mellon University. I graduated *summa cum laude* with a  Bachelor of Science in physics along with minors in economics and computer science from Allegheny College in 2019. 
+I am a PhD student in computational astrophysics at Carnegie Mellon University, having graduated summa cum laude in physics with minors in economics and computer science from Allegheny College in 2019.
 
-My work lies at the intersection of numerical methods development and gravitational dynamics. I have been involved in the development of fast force calculation techniques to speed up simulations of large stellar and galactic systems to study the mergers of massive black hole binaries. In particular, my collaborators and I have developed a collisional *N*-body code called *Taichi* which uses a finely tuned and optimized fast multipole method (FMM) based force solver. I have also been actively involved in the development and implementation of various novel integration and timestep methods that help preserve the symplectic and time symmetric properties of the Hamiltonian.   
-My background is quite diverse having worked in a variety of projects at various scales - solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dyanmics for clusters.
+My research focuses on developing numerical methods for gravitational dynamics, particularly in simulating massive black hole binary mergers and intermediate mass ratio inspirals in dark matter spikes. My collaborators and I created a collisional N-body code, Taichi, which utilizes an optimized fast multipole method (FMM) force solver. Additionally, I work on novel integration and timestep methods to preserve the Hamiltonian's symplectic and time-symmetric properties. My diverse background includes solar system dynamics, stellar dynamics in young massive clusters, and combining hydrodynamics with gravitational dynamics for clusters.
 
-I am proficient in Fortran (77,90), C/C++, and Python. While *Taichi* is parallelized using openMP, I have previously worked with CUDA and MPI.
+I am proficient in Fortran (77, 90), C/C++, and Python, with experience in parallel computing using OpenMP, CUDA, and MPI. My interests in computer science extend to high-performance computing (HPC), GPU computing, and machine learning. I have applied Generative Adversarial Networks (GANs) to simulate galaxy images and used symbolic regression for new force softening techniques in cosmological simulations.
 
-On the computer science side of things, I am interested in high performance computing (HPC), GPU computing, and machine learning (ML). I have worked with Generative Adversarial Networks (GANs) to simulate galaxy images for future galaxy surveys and symbolic regression to implement new force softening techniques in cosmological simulations.
-
-
-Outside of academics, I am involved in a variety of things. I was the president of the Astronomy Club at Allegheny College for two years. I also co-host and organize Astronomy on Tap, Pittsburgh where we bring the joy of astronomy to the general public. I also enjoy reading, hiking and traveling to new places. 
+Beyond academics, I served as president of the Astronomy Club at Allegheny College and co-host Astronomy on Tap, Pittsburgh, bringing astronomy to the public. I enjoy reading, hiking, and traveling to new places.
 
 #### Links
 
-[Works](./works.html)
+[Research](./works.html) | Codes | Talks and posters | Publications
 
 * * *
 
