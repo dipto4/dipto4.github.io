@@ -10,6 +10,7 @@ I am primarily involved and interested in problems related to the effect of nucl
 4.  _MAGICS III. Seeds sink swiftly: nuclear star clusters dramatically accelerate seed black hole mergers_(2024)  **Mukherjee, D.**, Zhou, Y. ,Chen, N., Di Matteo, T., Di Carlo, U.N. (in-prep)
 
 ## Dark matter spikes
+![DM spike visual](dm_spike.png)
 Recent studies posit the existence of dark matter spikes around intermediate mass black holes (IMBHs). The effect of such spikes on compact objects inspiraling into IMBHs have been studied using analytic and semi-analytic methods. The gravitational effect of the spike can be detectable as a dephasing effect in the GW signal. My collaborators and I performed N-body simulations of such inspirals using a custom built N-body code, Falcon, that takes into account post Newtonian effects upto 2.5 order. We found that, contrary to previous investigations, three-body effects play a more dominant role in the dephasing effects. Our results also suggest that DM spikes erode much faster than previously considered. Thus we find that GW effects of such spikes in previous studies may have been overestimated.
 
 ### Related publications
