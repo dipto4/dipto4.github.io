@@ -10,6 +10,8 @@
 9. _Exploring Massive Black Hole Binary mergers using Fast Multipole Methods_ Invited talk at **University of Helsinki**. April 2023.
 10. _Exploring capture of interstellar objects in Near Earth Orbit_ Invited talk at **Institute for Theory and Computation, Harvard University**. October 2023
 11. _Accelerated Mergers of High Redshift Seed Black Holes in Nuclear Star Clusters_. Talk at **Department of Astronomy, University of Michigan**. April 2024.
+
+
 ## Posters
 1. _Heating of Debris Disk using Stellar Encounters._ **April Meeting of the American Physical Society,
 Columbus. April 2018.**
