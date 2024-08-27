@@ -17,6 +17,8 @@ Recent studies posit the existence of dark matter spikes around intermediate mas
 1. [_Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using  N-body Simulations_(2024) **Mukherjee, D.**, Holgado, A. Miguel, Ogiya, Go & Trac, H. Monthly Notices of the Royal Astronomial Society](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1989/7737663)
 
 ## Capture and evolution of interstellar objects
+![Capture of interstellar objects](iso.png)
+
 I am also interested in topics related to planetary dynamics pertaining to the capture and detection of interstellar objects in the solar system. We used a hybrid integrator that combines a time-symmetrized P(EC)^3 Hermite scheme with a Kepler solver to rapidly evolve a population of interstellar objects to study their capture and retention. Our investigations reveal that 1-m sized interstellar objects can be captured efficiently in near earth orbit. Such objects typically survive in near earth orbit for 0.1-1 Myr until they are ejected. Future work would involve identifying the distinctive feature of orbits of such captured objects and comparing them to objects that arise in the solar system. We are interested in using ML based methods to study this. 
 
 ### Related publications
