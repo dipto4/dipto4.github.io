@@ -1,4 +1,6 @@
 ## Nuclear star clusters and massive black hole binaries
+![MBH-NSC evolution](nsc.png)
+
 I am primarily involved and interested in problems related to the effect of nuclear star clusters (NSCs) on massive black hole (MBH) binaries. I use N-body simulations to study mergers of massive black holes in a variety of NSC dominated environments. Using Taichi, an FMM based N-body code that uses AR-chain regularization, my collaborators and I studied how mass segregated NSCs affect the hardening and mergers of MBH binaries. My current work involves studying the effect of NSCs in high redshift MBH seed mergers in dwarf galaxies. Our work suggests that NSCs provide the dominant channel for seed MBH mergers in high redshift galaxies.
 
 ### Related publications
