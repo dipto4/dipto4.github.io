@@ -27,6 +27,7 @@ I am also interested in topics related to planetary dynamics pertaining to the c
 
 ## Machine learning
 ![Progressive GAN GalaxyZoo](gan.png)
+
 On the machine learning side of things, I have worked with generative adversarial networks (GANs) and Hamiltonian neural networks (HNNs). In the former case, I worked with progressive GANs to generate physically realistic galaxy images after training our model on the GalaxyZoo dataset. The test set was divided into two parts: spiral and elliptical galaxies, and the goal was to study how progressive GANs performed for both cases. We studied the distribution of ellipticity for the generated images in both cases, finding that the model is able to reproduce the distribution quite well. 
 I am also interested in using HNNs to investigate ways to circumvent integration of small subsystems in N-body simulations. HNNs and SNNs (symplectic neural networks) can provide more accurate reproduction of orbital parameters than ordinary NNs.
 
@@ -34,6 +35,7 @@ I am also interested in using HNNs to investigate ways to circumvent integration
 
 ## Numerical works
 ![Fast Multipole Method](fmm.png)
+
 I also work on a variety of numerical problems related to fast long range force calculations using the fast multipole method (FMM) and more accurate integration schemes. For the former, my collaborators and I study ways to optimize and improve FMM for collisional N-body simulations. Our investiagtions have ranged from improvement of the M2L kernels to testing compiler based optimizations for task-parallel parallelization models. 
 I am also interested in forward symplectic integration methods and timestep symmetrization. Forward symplectic methods are relatively new and alleviate the issue with negative timesteps in higher order symplectic methods. 
 
