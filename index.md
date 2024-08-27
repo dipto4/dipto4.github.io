@@ -14,9 +14,9 @@ Beyond academics, I served as president of the Astronomy Club at Allegheny Colle
 
 #### Links
 
-[Research](./research.html) &#124; [Projects](./codes.html) &#124; [Talks and posters](./talks.html) 
+[Research](./research.md) &#124; [Projects](./codes.md) &#124; [Talks and posters](./talks.md) 
 
-[Publication list](./publications.html) &#124; [Orcid](https://orcid.org/0009-0008-0384-3798) &#124; [Google Scholar](https://scholar.google.com/citations?user=SGFRBSQAAAAJ&hl=en) 
+[Publication list](./publications.md) &#124; [Orcid](https://orcid.org/0009-0008-0384-3798) &#124; [Google Scholar](https://scholar.google.com/citations?user=SGFRBSQAAAAJ&hl=en) 
 
 * * *
 
