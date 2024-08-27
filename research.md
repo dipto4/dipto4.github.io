@@ -22,6 +22,8 @@ Recent studies posit the existence of dark matter spikes around intermediate mas
 I am also interested in topics related to planetary dynamics pertaining to the capture and detection of interstellar objects in the solar system. We used a hybrid integrator that combines a time-symmetrized P(EC)^3 Hermite scheme with a Kepler solver to rapidly evolve a population of interstellar objects to study their capture and retention. Our investigations reveal that 1-m sized interstellar objects can be captured efficiently in near earth orbit. Such objects typically survive in near earth orbit for 0.1-1 Myr until they are ejected. Future work would involve identifying the distinctive feature of orbits of such captured objects and comparing them to objects that arise in the solar system. We are interested in using ML based methods to study this. 
 
 ### Related publications
+1. [_Close encounters of the interstellar kind: exploring the capture of interstellar objects in near-Earth orbit_ (2023) **Mukherjee, D.**, Siraj, A., Trac, H., & Loeb, A. Monthly Notices of the Royal Astronomial Society, 525(1), 908-921](https://academic.oup.com/mnras/article/525/1/908/7233732)
+
 
 ## Machine learning
 On the machine learning side of things, I have worked with generative adversarial networks (GANs) and Hamiltonian neural networks (HNNs). In the former case, I worked with progressive GANs to generate physically realistic galaxy images after training our model on the GalaxyZoo dataset. The test set was divided into two parts: spiral and elliptical galaxies, and the goal was to study how progressive GANs performed for both cases. We studied the distribution of ellipticity for the generated images in both cases, finding that the model is able to reproduce the distribution quite well. 
@@ -34,4 +36,4 @@ I also work on a variety of numerical problems related to fast long range force 
 I am also interested in forward symplectic integration methods and timestep symmetrization. Forward symplectic methods are relatively new and alleviate the issue with negative timesteps in higher order symplectic methods. 
 
 ### Related publications
-
+1. [_Fast Multipole Methods for N-body Simulations of Collisional Star Systems_ **Mukherjee, D.**, Zhu, Q., Trac, H., Rodriguez, C.L. ApJ 916 9](https://iopscience.iop.org/article/10.3847/1538-4357/ac03b2)
