@@ -14,7 +14,7 @@ I am primarily involved and interested in problems related to the effect of nucl
 Recent studies posit the existence of dark matter spikes around intermediate mass black holes (IMBHs). The effect of such spikes on compact objects inspiraling into IMBHs have been studied using analytic and semi-analytic methods. The gravitational effect of the spike can be detectable as a dephasing effect in the GW signal. My collaborators and I performed N-body simulations of such inspirals using a custom built N-body code, Falcon, that takes into account post Newtonian effects upto 2.5 order. We found that, contrary to previous investigations, three-body effects play a more dominant role in the dephasing effects. Our results also suggest that DM spikes erode much faster than previously considered. Thus we find that GW effects of such spikes in previous studies may have been overestimated.
 
 ### Related publications
-1. [_Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using  N-body Simulations_(2024) **Mukherjee, D.**, Holgado, A. Miguel, Ogiya, Go & Trac, H. Monthly Notices of the Royal Astronomial Society](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1989/7737663)
+1. [_Examining the Effects of Dark Matter Spikes on Eccentric Intermediate Mass Ratio Inspirals Using  N-body Simulations_(2024) **Mukherjee, D.**, Holgado, A. Miguel, Ogiya, Go & Trac, H. Monthly Notices of the Royal Astronomial Society, 533(2) 2335-2355](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stae1989/7737663)
 
 ## Capture and evolution of interstellar objects
 ![Capture of interstellar objects](iso.png)
