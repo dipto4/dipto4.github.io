@@ -1,4 +1,4 @@
-##  Projects
+##  Codes
 
 ### *Taichi*
 Taichi is a FMM based collisional dynamics *N*-body code that is optimized to handle million and post-million body problems. The code is built on top of exaFMM with changes made to improve the force accuracy and optimizations for collisional dynamics. For accurate few-body dynamics, regularization is included. Work is in progress to implement post-Newtonian effects and gravitational wave recoil. *Taichi* includes time-symmetrized hamiltonian splitting integrators of second and fourth orders. For the latter, gradient extrapolation based forward symplectic methods are used to avoid negative timesteps and improve accuracy. Please contact me at dipto@cmu.edu if you would like to obtain a version of Taichi. Currently, I am working on creating an API that allows a user to use the gravity solver in Taichi easily in an N-body code. The API will be made publicly available.
