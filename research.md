@@ -6,8 +6,8 @@ I am primarily involved and interested in problems related to the effect of nucl
 ### Related publications
 1. [_Evolution of massive black hole binaries in collisionally relaxed nuclear star clusters–Impact of mass segregation_ (2022)  **Mukherjee, D.**, Zhu, Q., Ogiya, G., Rodriguez, C. L., & Trac, H. Monthly Notices of the Royal Astronomical Society, 518(4), 4801-4817](https://academic.oup.com/mnras/article-abstract/518/4/4801/6840259)
 2. [_MAGICS I. The First Few Orbits Encode the Fate of Seed Massive Black Hole Pairs_ (2024) Chen, N., **Mukherjee, D.**, Di Matteo, T., Ni, Y., Bird, S., & Croft, R.  The Open Journal of Astrophysics ](https://doi.org/10.33232/001c.116179)
-3. _MAGICS II. The crucial role of tidal stripping for seed black hole binary evolution_(2024) Zhou, Y., **Mukherjee, D.**, Chen, N., Di Matteo, T., Di Carlo, U.N., Johansson, P.H., Rantala, A., & Partmann, C. (in-prep)
-4.  _MAGICS III. Seeds sink swiftly: nuclear star clusters dramatically accelerate seed black hole mergers_(2024)  **Mukherjee, D.**, Zhou, Y. ,Chen, N., Di Matteo, T., Di Carlo, U.N. (in-prep)
+3. [_MAGICS II. Seed black holes stripped of their surrounding stars do not sink (2024) Zhou, Y., **Mukherjee, D.**, Chen, N., Di Matteo, T., Di Carlo, U.N., Johansson, P.H., Rantala, A., & Partmann, C. arxiv-preprint](https://arxiv.org/abs/2409.19914)
+4. [_MAGICS III. Seeds sink swiftly: nuclear star clusters dramatically accelerate seed black hole mergers_(2024)  **Mukherjee, D.**, Zhou, Y. ,Chen, N., Di Matteo, T., Di Carlo, U.N. arxiv-preprint](https://arxiv.org/abs/2409.19095)
 
 ## Dark matter spikes
 ![DM spike visual](dm_spike.png)
